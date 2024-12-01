@@ -1,5 +1,11 @@
 # vrinda-store-annual-report-2022
 Project Description
+
+
+
+
+
+
 This project analyzes the sales performance of Vrinda Store to identify patterns, trends, and actionable insights that can drive growth and increase revenue. Using structured data cleaning, visualization dashboard has been created for easy stragetic decision-making.
 File structure:
 Store data: 
