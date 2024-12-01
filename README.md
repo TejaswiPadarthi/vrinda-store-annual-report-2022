@@ -48,6 +48,8 @@ Insights to Explore
 
 
 
+
+
 1. Gender-wise Purchase Patterns:
                   a) Analyze the total number of purchases by gender.
                   b) Identify whether one gender contributes more to the sales volume or revenue
