@@ -1,5 +1,5 @@
-# vrinda-store-annual-report-2022
-**Project Description
+# vrinda-store-annual-report-202
+Project Description
 
 
 
@@ -13,6 +13,9 @@ Store data:
 Key columns: 
        Orderid, customer id, age , age group, date, month, status, channel, sku, category, size, currency, amount, ship sity,ship state, b2b.
 Data cleaning:
+
+
+
       1. Cleaned columns like gende,Age,Amount.
       2. Added columns like,age group,Month.
       3. Removed Columns like Currency as there is only one type of currency.
@@ -21,18 +24,29 @@ Data cleaning:
       6. Handled missing values.
       7. Grouped ages into appropriate age ranges.
 Table:
+
+
     These tables are used for creating pivot tables and performing calculations.
 Charts:
+
+
     1. Sales Trends Over Time
     2. Order Status Distribution
     3. Combo Chart for Orders vs. Sales
     4. Top Products by Sales
 Final dashboard:
+
+
+
   A comprehensive, interactive dashboard summarizing all key insights in one place.
    1. Interactive slicers to filter data by gender, age group, and order status.
    2. Consolidated KPIs and charts.
    3. Designed for presentations and strategic decision-making.
 Insights to Explore
+
+
+
+
 
 1. Gender-wise Purchase Patterns:
                   a) Analyze the total number of purchases by gender.
