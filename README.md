@@ -42,6 +42,18 @@ Final dashboard:
    1. Interactive slicers to filter data by gender, age group, and order status.
    2. Consolidated KPIs and charts.
    3. Designed for presentations and strategic decision-making.
+
+
+
+
+
+
+
+
+
+
+
+
 Insights to Explore
 
 
